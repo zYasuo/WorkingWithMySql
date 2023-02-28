@@ -1,5 +1,5 @@
 <?
-include_once'/var/www/html/intranet/includes/conexaoramais.php';
+include_once'conexaoramais.php';
 session_start();
 ?>
 
